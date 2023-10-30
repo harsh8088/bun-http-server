@@ -1,1 +1,1 @@
-console.log(<div>This is sample div</div>)
+console.log(<div>This is sample div</div>);
