@@ -1,5 +1,7 @@
 # bun-http-server
 
+All-in-one JavaScript runtime & toolkit.
+
 To install dependencies:
 
 ```bash
